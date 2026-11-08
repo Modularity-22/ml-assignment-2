@@ -650,7 +650,7 @@ weighted avg    ~0.87     {m['Accuracy']:.4f}   ~0.87    48
 
             ### 🔗 Links
             - 📂 **GitHub:** [Modularity-22/ml-assignment-2](https://github.com/Modularity-22/ml-assignment-2)
-            - 🌐 **Streamlit App:** *(to be updated after deployment)*
+            - 🌐 **Streamlit App:** [ml-assignment-2-f5wqt7ftmi6cckxhntharw.streamlit.app](https://ml-assignment-2-f5wqt7ftmi6cckxhntharw.streamlit.app/)
 
             ---
 
