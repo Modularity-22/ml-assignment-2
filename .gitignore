@@ -1,0 +1,4 @@
+﻿__pycache__/
+*.pyc
+.env
+push_to_github.py
